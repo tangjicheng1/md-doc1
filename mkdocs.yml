@@ -1,6 +1,9 @@
 site_name: tangjicheng 测试页面
 site_url: https://tangjicheng46.github.io/md-doc1
 repo_url: https://github.com/tangjicheng46/md-doc1
+nav:
+  - index.md
+  - index2.md
 markdown_extensions:
   - pymdownx.highlight:
       anchor_linenums: true
