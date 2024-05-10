@@ -2,3 +2,5 @@ site_name: My Docs
 site_url: https://tangjicheng46.github.io/md-doc1
 theme:
   name: material
+  palette:
+    scheme: slate
