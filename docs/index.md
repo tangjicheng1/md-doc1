@@ -3,6 +3,7 @@
 测试github page, 使用mk docs
 
 ## 如何设置github pages
+在repo的setting里面，设置Pages
 - 设置Source为：deploy from a branch
 - 选择gh-pages，/(root)
 
