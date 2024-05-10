@@ -27,7 +27,7 @@
 
 ## 测试代码
 
-```
+```python
 from sqlalchemy import create_engine, Column, Integer, String, Sequence
 from sqlalchemy.ext.declarative import declarative_base
 from sqlalchemy.orm import sessionmaker
@@ -48,5 +48,4 @@ class User(Base):
 
 # 创建数据库引擎
 # 格式：'postgresql://用户名:密码@主机地址/数据库名'
-
 ```

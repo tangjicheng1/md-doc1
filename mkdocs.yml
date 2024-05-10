@@ -1,7 +1,19 @@
 site_name: tangjicheng 测试页面
 site_url: https://tangjicheng46.github.io/md-doc1
+repo_url: https://github.com/tangjicheng46/md-doc1
+markdown_extensions:
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences
 theme:
   name: material
+  features:
+    - header.autohide
+    - content.code.copy
   palette:
     # Palette toggle for automatic mode
     - media: "(prefers-color-scheme)"
