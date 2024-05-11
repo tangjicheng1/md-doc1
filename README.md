@@ -1,3 +1,1 @@
-# md-doc1
-
-[文档](https://tangjicheng46.github.io/md-doc1/)
+# [Click me](https://tangjicheng46.github.io/md-doc1/)
